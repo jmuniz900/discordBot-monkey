@@ -18,6 +18,9 @@ What I'm hoping to be able to do is:
 - [ ] Get monkey fact working using a database of monkey facts
 - [ ] A troll command that when connected to the voice chat, will talk over others with monkey noises
 - [ ] Have it have a command called $quieres that gives the image of the quieres meme but with a banana
+- [ ] Have it announce whenever Llama is streaming
+- [ ] Allow it to add role reactions
+- [ ] Have it announce new videos from Llama on YouTube
 
 ### Updates
 None so far. This will be updated as more features are added.
